@@ -1,0 +1,14 @@
+{
+  "name": "otasubi-tg-bot",
+  "version": "0.1",
+  "description": "Telegram bot for returning today's sub",
+  "main": "index.js",
+  "repository": "https://github.com/marinp1/otasubi-tg-bot",
+  "author": "Patrik Marin",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
